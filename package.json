@@ -1,0 +1,13 @@
+{
+	"name":"fvalidator",
+	"version":"0.0.1",
+	"description": "A jQuery plugin for validate all forms.",
+  	"author": "Joel A. Jaime <joel.alexander.jaime@gmail.com>",
+  	"license": "MIT",
+  	"repository": {
+    	"type": "git",
+    	"url": "https://github.com/jblandino/fvalidator.git"  
+  	},
+  	"dependencies":{}
+  	"devDependencies":{}
+}
